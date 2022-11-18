@@ -8,6 +8,10 @@ assessmentV2/assessmentV2/.vs/
 assessmentV2/assessmentV2/bin/
 assessmentV2/assessmentV2/obj/
 
+assessmentVFinal/FinalApp/.vs/
+assessmentVFinal/FinalApp/bin/
+assessmentVFinal/FinalApp/obj/
+
 *.csproj.nuget.dgspec.json
 *.csproj.nuget.g.props
 *.assets.json
