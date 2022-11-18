@@ -1,4 +1,14 @@
 ~$quirements.docx
+
+back/.vs/
+back/obj/
+back/obj/Debug
+
+*.csproj.nuget.dgspec.json
+*.csproj.nuget.g.props
+*.assets.json
+*.nuget.cache
+
 back/.vs/NETAssessment/FileContentIndex/68bf6bcd-fce5-4f11-82bc-e36f4c8375e5.vsidx
 back/.vs/NETAssessment/FileContentIndex/736dae33-3518-4d0d-b03c-7e07fa7c5634.vsidx
 back/.vs/NETAssessment/FileContentIndex/d4419f64-3024-4738-b14d-3ada8442ee56.vsidx
