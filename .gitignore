@@ -20,3 +20,5 @@ back/obj/project.nuget.cache
 back/obj/Debug/net6.0/NETAssessment.assets.cache
 back/obj/Debug/net6.0/NETAssessment.csproj.AssemblyReference.cache
 back/obj/Debug/net6.0/NETAssessment.GeneratedMSBuildEditorConfig.editorconfig
+back/appsettings.json
+back/NETAssessment.csproj
