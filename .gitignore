@@ -1,3 +1,10 @@
 ~$quirements.docx
+
 back/.vs/
 back/obj/
+back/obj/Debug
+
+*.csproj.nuget.dgspec.json
+*.csproj.nuget.g.props
+*.assets.json
+*.nuget.cache
